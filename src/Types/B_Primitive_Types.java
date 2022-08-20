@@ -1,6 +1,6 @@
 package Types;
 
-public class Primitive_Types {
+public class B_Primitive_Types {
 
     public static void main(String[] args) {
         // primitive for storing simple types

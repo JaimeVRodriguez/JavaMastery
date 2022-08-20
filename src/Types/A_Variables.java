@@ -1,6 +1,6 @@
 package Types;
 
-public class Variables {
+public class A_Variables {
 
     public static void main(String[] args) {
         int age = 30; //storing the number 30 to a variable called age
