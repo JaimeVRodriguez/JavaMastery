@@ -7,7 +7,7 @@ public class N_Project {
     public static void main(String[] args) {
         // ** This does have errors in the sense that if non numbers are entered
         // then the code won't work.
-        // Follow on lessons will fix this. 
+        // Follow on lessons will fix this.
 
         // mortgage = principal * (1 + r)^n / (1 + r)^n - 1
         final int MONTHS_IN_YEAR = 12;
