@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class F_Exercise {
     public static void main(String[] args) {
-        // if number is dividisble by 5 get fizz
+        // if number is divisible by 5 get fizz
         // if number is divisible by 3 get buzz
         // if number id divisible by both get fizz buzz
         // not divisible get number
