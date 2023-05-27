@@ -1,4 +1,4 @@
-public class PrimitiveTypes {
+public class B_PrimitiveTypes {
     public static void main(String[] args) {
         byte age = 30;
         // Underscore acts like a comma to make long numbers readable

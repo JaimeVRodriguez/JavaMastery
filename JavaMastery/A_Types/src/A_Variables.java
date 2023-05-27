@@ -1,4 +1,4 @@
-public class Variables {
+public class A_Variables {
     public static void main(String[] args) {
 
         int myAge = 36;
