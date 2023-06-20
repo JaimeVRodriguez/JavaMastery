@@ -13,7 +13,6 @@ public class N_MortgageCalculator {
 
         Scanner scanner = new Scanner(System.in);
         
-        
         System.out.print("Principal: ");
         float principal = scanner.nextFloat();
 
