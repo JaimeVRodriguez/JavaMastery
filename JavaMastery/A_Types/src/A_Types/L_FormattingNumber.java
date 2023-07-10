@@ -1,3 +1,4 @@
+package A_Types;
 import java.text.NumberFormat;
 
 public class L_FormattingNumber {

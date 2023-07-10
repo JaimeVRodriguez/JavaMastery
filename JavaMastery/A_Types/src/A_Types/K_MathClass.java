@@ -1,3 +1,4 @@
+package A_Types;
 public class K_MathClass {
     public static void main(String[] args) {
         int result = Math.round(1.1F);

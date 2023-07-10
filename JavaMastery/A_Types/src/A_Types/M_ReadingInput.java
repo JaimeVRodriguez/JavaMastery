@@ -1,3 +1,4 @@
+package A_Types;
 import java.util.Scanner;
 
 public class M_ReadingInput {

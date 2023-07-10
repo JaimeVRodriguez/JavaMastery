@@ -1,3 +1,4 @@
+package A_Types;
 public class A_Variables {
     public static void main(String[] args) {
 

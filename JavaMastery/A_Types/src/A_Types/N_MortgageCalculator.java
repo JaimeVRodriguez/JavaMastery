@@ -1,3 +1,4 @@
+package A_Types;
 import java.util.Scanner;
 import java.text.NumberFormat;
 

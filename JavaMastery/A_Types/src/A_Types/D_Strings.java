@@ -1,3 +1,4 @@
+package A_Types;
 public class D_Strings {
     public static void main(String[] args) {
         String message = new String("Hello World");

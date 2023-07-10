@@ -1,3 +1,4 @@
+package A_Types;
 public class J_Casting {
     public static void main(String[] args) {
         // Implicit casting (automatically done by compiler)

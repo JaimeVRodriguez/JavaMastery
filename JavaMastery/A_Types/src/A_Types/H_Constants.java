@@ -1,3 +1,4 @@
+package A_Types;
 public class H_Constants {
     public static void main(String[] args) {
         // Constants are variables that can not be changed

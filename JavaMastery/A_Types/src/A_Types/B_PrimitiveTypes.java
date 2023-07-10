@@ -1,3 +1,4 @@
+package A_Types;
 public class B_PrimitiveTypes {
     public static void main(String[] args) {
         byte age = 30;
